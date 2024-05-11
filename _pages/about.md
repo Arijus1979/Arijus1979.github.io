@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: introduction
 permalink: /
 subtitle: 
 
@@ -15,9 +15,9 @@ profile:
     <p>arijus.tamasauskas@mif.stud.vu.lt</p>
 
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
 My name is Arijus Tamašauskas and I'm from Vilnius, Lithuania. 
