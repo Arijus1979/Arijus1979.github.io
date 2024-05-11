@@ -16,7 +16,7 @@
       "startDate": "2022-07-01",
       "endDate": "2023-08-01",
       "summary": "Helping people all around the world with various VPN related issues.",
-      "highlights": ["Customer support"]
+      "highlights": ["Customer support", "Zendesk", "Jira"]
     },
     {
       "name": "UAB Bitdegree",
@@ -33,21 +33,21 @@
       "institution": "Vilnius University",
       "location": "Vilnius, Lithuania",
       "url": "https://www.vu.lt/",
-      "area": "Computer Science",
+      "area": "Information Systems Engineering",
       "studyType": "Bachelors",
       "startDate": "2021-09-01",
       "endDate": "2025-07-01",
-      "courses": ["Information Systems Engineering"]
+      "courses": ["Procedural Programming", "Mathematics for Information Systems Engineering", "Computer Architecture", "Information and Groupware Systems", "English for Academic Purposes and Research C1", "Organizations Management", "Object-Oriented Programming", "Database Management Systems", "Discrete Mathematics for Information Systems Engineering", "Algorithms and Data Structures", "Database Query Languages", "Blockchain Technologies", "Business Process Modeling", "Requirements Engineering Fundamentals", "User Interface Design", "Leadership", "Robotic Process Automation", "Marketing", "Statistical Data Analysis Methods", "Optimization Methods", "Operating Systems", ".NET Framework for Information Systems", "NoSQL Databases", "Natural Language Processing", "Financial Engineering and Modeling", "Computer Networks", "Information System Development and Project Engineering"]
     },
     {
       "institution": "Sungkyunkwan University (SKKU)",
       "location": "Suwon, South Korea",
       "url": "https://www.skku.edu/",
-      "area": "Computer Science",
+      "area": "Information Systems Engineering",
       "studyType": "Bachelors",
       "startDate": "2024-03-01",
       "endDate": "2024-07-01",
-      "courses": ["Information Systems Engineering"]
+      "courses": ["Introduction to Big Data Analytics", "Introduction to Artificial Inteligence", "Programming languages", "Open Source software practice", "Introduction to Software Engineering", "System Programming Lab"]
     }
   ],
   "skills": [
