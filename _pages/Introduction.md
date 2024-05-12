@@ -1,6 +1,6 @@
 ---
 layout: about
-title: introduction
+title: Introduction
 permalink: /
 subtitle: 
 
